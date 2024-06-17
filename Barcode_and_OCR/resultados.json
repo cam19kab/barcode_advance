@@ -1,0 +1,25 @@
+[
+    {
+        "id": "barcode_1528.jpeg",
+        "nombre_imagen": "barcode_1528.jpeg",
+        "codigos_barras": [],
+        "ocr": []
+    },
+    {
+        "id": "barcode_189.jpeg",
+        "nombre_imagen": "barcode_189.jpeg",
+        "codigos_barras": [
+            {
+                "tipo": "EAN13",
+                "texto": "4100420015724",
+                "coordenadas": [
+                    94,
+                    7,
+                    910,
+                    311
+                ]
+            }
+        ],
+        "ocr": []
+    }
+]
